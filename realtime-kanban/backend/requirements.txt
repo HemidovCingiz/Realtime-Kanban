@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+pytest
+requests
+pydantic
+anyio
+annotated-types
